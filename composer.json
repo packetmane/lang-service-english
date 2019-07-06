@@ -1,7 +1,7 @@
 {
-    "name": "packetmane/lang-english-bhservices",
+    "name": "packetmane/lang-english-services",
     "type": "flarum-extension",
-    "description": "Bahrain Services' English language pack.",
+    "description": "Services' English language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -12,7 +12,7 @@
             "dev-master": "0.1.x-dev"
         },
         "flarum-extension": {
-            "title": "Bahrain Services English",
+            "title": "Services English",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
@@ -21,8 +21,8 @@
             }
         },
         "flarum-locale": {
-            "code": "bhservices-en",
-            "title": "Bahrain Services English"
+            "code": "services-en",
+            "title": "Services English"
         }
     }
 }
